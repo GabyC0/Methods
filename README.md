@@ -15,7 +15,7 @@ array.map(function(currentValue, index, arr), thisValue)
 O(n)
 <h3>Example:</h3>
 
-```jss
+```js
 const nums = [10, 40, 62]
 const newNums = nums.map(theFunc)
 
@@ -25,6 +25,10 @@ function theFunc(num) {
 ```
 
 <h3>Example:</h3>
+
+```jss
+const items = [
+{
 <h3>Example:</h3>
 
 <h1>reduce()</h1>
