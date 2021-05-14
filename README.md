@@ -27,6 +27,7 @@ array.map(function(currentValue, index, arr), thisValue)
 
 ```
 array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
+
 ```
 
 <h3>Time Complexity:</h3>
