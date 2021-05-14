@@ -4,7 +4,7 @@
 <h3>Description of method:</h3>
 - Creates a new array with the results of calling a function for every array element. It calls the provided function once for each element in an array, in order.
 <h3>How it works:</h3>
-- Returns a new array with the results that the method 
+- A provided function is called on every element in the array that it's being called on. There is then a new array populated with the results from calling the function.
 <h3>Syntax:</h3>
 
 ```
