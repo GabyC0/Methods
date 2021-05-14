@@ -14,8 +14,14 @@ array.map(function(currentValue, index, arr), thisValue)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
-```jss
 
+```jss
+const nums = [10, 40, 62]
+const newNums = nums.map(theFunc)
+
+function theFunc(num) {
+  return num + 100;
+  }
 ```
 
 <h3>Example:</h3>
