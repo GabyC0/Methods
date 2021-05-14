@@ -2,7 +2,7 @@
 
 <h2>map</h2>
 ## Description of method:
-*
+
 ## How it works:
 
 ## Syntax:
@@ -15,7 +15,7 @@
 
 <h2>reduce</h2>
 ## Description of method:
-*
+
 ## How it works:
 
 ## Syntax:
@@ -28,7 +28,7 @@
 
 <h2>filter</h2>
 ## Description of method:
-*
+-
 ## How it works:
 
 ## Syntax:
@@ -41,7 +41,7 @@
 
 <h2>forEach</h2>
 ## Description of method:
-*
+
 ## How it works:
 
 ## Syntax:
@@ -54,7 +54,7 @@
 
 <h2>sort</h2>
 ## Description of method:
-*
+
 ## How it works:
 
 ## Syntax:
@@ -67,7 +67,7 @@
 
 <h2>slice</h2>
 ## Description of method:
-*
+
 ## How it works:
 
 ## Syntax:
