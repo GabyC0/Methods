@@ -1,7 +1,7 @@
 # Methods
 
 <h2>map</h2>
-## Description of method:
+<h3>Description of method:</h3>
 
 ## How it works:
 
