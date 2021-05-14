@@ -26,9 +26,20 @@ function theFunc(num) {
 
 <h3>Example:</h3>
 
-```jss
-const items = [
-{
+```js
+const location = [
+{ trip: 'Mexico', price: 250 },
+{ trip: 'Jordan', price: 875 },
+{ trip: 'Japan', price: 900 },
+{ trip: 'Denmark', price: 700 }
+]
+
+const locationName = location.map((item) => {
+  return location.trip
+  return location.price
+ })
+ ```
+
 <h3>Example:</h3>
 
 <h1>reduce()</h1>
