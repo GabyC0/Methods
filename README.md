@@ -4,7 +4,7 @@
 <h3>Description of method:</h3>
 - Creates a new array with the results of calling a function for every array element. It calls the provided function once for each element in an array, in order.
 <h3>How it works:</h3>
-
+- Returns a new array with the results that the method 
 <h3>Syntax:</h3>
 
 ```
@@ -12,7 +12,7 @@ array.map(function(currentValue, index, arr), thisValue)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -29,7 +29,7 @@ array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -46,7 +46,7 @@ array.filter(function(currentValue, index, arr), thisValue)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -63,7 +63,7 @@ array.forEach(function(currentValue, index, arr), thisValue)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -80,7 +80,7 @@ array.sort(compareFunction)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(nlog(n))
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -97,7 +97,7 @@ array.slice(start, end)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -114,7 +114,7 @@ array.pop()
 ```
 
 <h3>Time Complexity:</h3>
-
+O(1)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -130,7 +130,7 @@ array.shift()
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -147,7 +147,7 @@ array.push(item1, item2, ..., itemX)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(1)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -164,7 +164,7 @@ array.unshift(tem1, item2, ..., itemX)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -181,7 +181,7 @@ string.includes(searchvalue, start)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -198,7 +198,7 @@ array.indexOf(item, start)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -215,7 +215,7 @@ array.every(function(currentValue, index, arr), thisValue)
 ```
 
 <h3>Time Complexity:</h3>
-
+O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
