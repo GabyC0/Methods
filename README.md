@@ -53,7 +53,7 @@ const newArr = numbers.map(function(num) {
 <h3>Description of method:</h3>
 - Reduces the array to a single value. It executes a provided function for each value of an array from left to right. The returned value of the function is stored in an accumulator.
 <h3>How it works:</h3>
-
+- Provide a reducer function that will be executed on each element of an array to produce a single output value.
 <h3>Syntax:</h3>
 
 ```
