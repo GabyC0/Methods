@@ -96,7 +96,7 @@ let sum = [{x: 4}, {x: 7}, {x: 1}].reduce(
 <h3>Description of method:</h3>
 - Creates an array filled with all array elements that pass a test provided as a function.
 <h3>How it works:</h3>
-
+- 
 <h3>Syntax:</h3>
 
 ```
