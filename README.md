@@ -2,10 +2,13 @@
 
 <h1>map()</h1>
 <h3>Description of method:</h3>
-
+- Creates a new array with the results of calling a function for every array element. It calls the provided function once for each element in an array, in order.
 <h3>How it works:</h3>
 
 <h3>Syntax:</h3>
+```
+array.map(function(currentValue, index, arr), thisValue)
+```
 
 <h3>Time Complexity:</h3>
 
