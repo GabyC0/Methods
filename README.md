@@ -14,6 +14,10 @@ array.map(function(currentValue, index, arr), thisValue)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+```jss
+
+```
+
 <h3>Example:</h3>
 <h3>Example:</h3>
 
