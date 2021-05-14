@@ -1,6 +1,6 @@
 # Methods
 
-<h2>map()</h2>
+<h1>map()</h1>
 <h3>Description of method:</h3>
 
 <h3>How it works:</h3>
@@ -13,7 +13,7 @@
 ## Example:
 ## Example:
 
-<h2>reduce()</h2>
+<h1>reduce()</h1>
 ## Description of method:
 
 ## How it works:
@@ -26,7 +26,7 @@
 ## Example:
 ## Example:
 
-<h2>filter()</h2>
+<h1>filter()</h1>
 ## Description of method:
 -
 ## How it works:
@@ -39,7 +39,7 @@
 ## Example:
 ## Example:
 
-<h2>forEach()</h2>
+<h1>forEach()</h1>
 ## Description of method:
 
 ## How it works:
@@ -52,7 +52,7 @@
 ## Example:
 ## Example:
 
-<h2>sort()</h2>
+<h1>sort()</h1>
 ## Description of method:
 
 ## How it works:
@@ -65,7 +65,7 @@
 ## Example:
 ## Example:
 
-<h2>slice()</h2>
+<h1>slice()</h1>
 ## Description of method:
 
 ## How it works:
@@ -78,20 +78,7 @@
 ## Example:
 ## Example:
 
-<h2>pop()</h2>
-## Description of method:
-*
-## How it works:
-
-## Syntax:
-
-## Time Complexity:
-
-## Example:
-## Example:
-## Example:
-
-<h2>shift()</h2>
+<h1>pop()</h1>
 ## Description of method:
 *
 ## How it works:
@@ -104,7 +91,7 @@
 ## Example:
 ## Example:
 
-<h2>push()</h2>
+<h1>shift()</h1>
 ## Description of method:
 *
 ## How it works:
@@ -117,7 +104,7 @@
 ## Example:
 ## Example:
 
-<h2>unshift()</h2>
+<h1>push()</h1>
 ## Description of method:
 *
 ## How it works:
@@ -130,7 +117,7 @@
 ## Example:
 ## Example:
 
-<h2>includes()</h2>
+<h1>unshift()</h1>
 ## Description of method:
 *
 ## How it works:
@@ -143,7 +130,7 @@
 ## Example:
 ## Example:
 
-<h2>indexOf()</h2>
+<h1>includes()</h1>
 ## Description of method:
 *
 ## How it works:
@@ -156,7 +143,20 @@
 ## Example:
 ## Example:
 
-<h2>everyday()</h2>
+<h1>indexOf()</h1>
+## Description of method:
+*
+## How it works:
+
+## Syntax:
+
+## Time Complexity:
+
+## Example:
+## Example:
+## Example:
+
+<h1>everyday()</h1>
 ## Description of method:
 *
 ## How it works:
