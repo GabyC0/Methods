@@ -63,8 +63,34 @@ array.reduce(function(total, currentValue, currentIndex, arr), initialValue)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
+```js
+const arr = [4, 9, 15, 22]
+const reducer = (accumulator, currentVal) {
+  return accumulator + currentVal
+ }, 1)
+ ```
+
 <h3>Example:</h3>
+
+```js
+const dollars = [2.5, 10.25, .75];
+const sum = dollars.reduce( function(total, amount){
+  return total + amount
+ });
+
+sum //13.5
+```
+
 <h3>Example:</h3>
+
+```js
+let val = 8
+let sum = [{x: 4}, {x: 7}, {x: 1}].reduce(
+  (accumulator, currentVal) => accumulator + currentVal.x
+  , val
+ )
+```
 
 <h1>filter()</h1>
 <h3>Description of method:</h3>
