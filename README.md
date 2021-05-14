@@ -28,11 +28,11 @@ function theFunc(num) {
 
 ```js
 const location = [
-{ trip: 'Mexico', price: 250 },
-{ trip: 'Jordan', price: 875 },
-{ trip: 'Japan', price: 900 },
-{ trip: 'Denmark', price: 700 }
-]
+  { trip: 'Mexico', price: 250 },
+  { trip: 'Jordan', price: 875 },
+  { trip: 'Japan', price: 900 },
+  { trip: 'Denmark', price: 700 }
+ ]
 
 const locationName = location.map((item) => {
   return location.trip
@@ -41,6 +41,13 @@ const locationName = location.map((item) => {
  ```
 
 <h3>Example:</h3>
+
+```js
+const numbers = [4, 2, 7, 10]
+const newArr = numbers.map(function(num) {
+  return num * 5
+  })
+```
 
 <h1>reduce()</h1>
 <h3>Description of method:</h3>
