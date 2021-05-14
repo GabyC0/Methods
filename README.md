@@ -20,7 +20,7 @@ array.map(function(currentValue, index, arr), thisValue)
 
 <h1>reduce()</h1>
 <h3>Description of method:</h3>
-- reduces the array to a single value. It executes a provided function for each value of an array from left to right. The returned value of the function is stored in an accumulator.
+- Reduces the array to a single value. It executes a provided function for each value of an array from left to right. The returned value of the function is stored in an accumulator.
 <h3>How it works:</h3>
 
 <h3>Syntax:</h3>
