@@ -6,8 +6,8 @@
 <h3>How it works:</h3>
 
 <h3>Syntax:</h3>
-```
 
+```
 array.map(function(currentValue, index, arr), thisValue)
 
 ```
