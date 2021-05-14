@@ -7,7 +7,9 @@
 
 <h3>Syntax:</h3>
 ```
+
 array.map(function(currentValue, index, arr), thisValue)
+
 ```
 
 <h3>Time Complexity:</h3>
