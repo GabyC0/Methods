@@ -106,6 +106,15 @@ array.filter(function(currentValue, index, arr), thisValue)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
+```js
+const ages = [18, 25, 15, 33];
+
+function isAdult(age) {
+  return age >= 18;
+ }
+ ```
+ 
 <h3>Example:</h3>
 <h3>Example:</h3>
 
