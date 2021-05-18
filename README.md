@@ -116,7 +116,13 @@ function isAdult(age) {
  ```
  
 <h3>Example:</h3>
+```js
+
+```
 <h3>Example:</h3>
+```js
+
+```
 
 <h1>forEach()</h1>
 <h3>Description of method:</h3>
@@ -132,8 +138,17 @@ array.forEach(function(currentValue, index, arr), thisValue)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+```js
+
+```
 <h3>Example:</h3>
+```js
+
+```
 <h3>Example:</h3>
+```js
+
+```
 
 <h1>sort()</h1>
 <h3>Description of method:</h3>
@@ -149,8 +164,19 @@ array.sort(compareFunction)
 <h3>Time Complexity:</h3>
 O(nlog(n))
 <h3>Example:</h3>
+```js
+
+```
+
 <h3>Example:</h3>
+```js
+
+```
+
 <h3>Example:</h3>
+```js
+
+```
 
 <h1>slice()</h1>
 <h3>Description of method:</h3>
