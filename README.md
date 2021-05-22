@@ -315,13 +315,13 @@ O(n)
 
 <h1>charAt()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Returns the character at the specified index in a sting.
 <h3>How it works:</h3>
-
+It outputs a character depending on the index of the value. The index of the first character is 0, the next is 1, then 2, and so on. 
 <h3>Syntax:</h3>
 
 ```
-
+public char charAt(int index)
 ```
 
 <h3>Time Complexity:</h3>
@@ -332,13 +332,13 @@ O(n)
 
 <h1>charCodeAt()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Returns the Unicode of the character at the specified index in a string.
 <h3>How it works:</h3>
-
+You specify an index and the method returns an integer between 0 and 65535 representing the UTF- 16 code unit at the given index.
 <h3>Syntax:</h3>
 
 ```
-
+string.charCodeAt(index)
 ```
 
 <h3>Time Complexity:</h3>
@@ -349,13 +349,13 @@ O(n)
 
 <h1>concat()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Used to join two or more strings. It does not change the existing strings, instead, it returns a new string containing the text of the joined strings.
 <h3>How it works:</h3>
-
+If you have multiple strings and want to join them yet not change them then you can concatenate them by using the concat method.
 <h3>Syntax:</h3>
 
 ```
-
+string.concat(string1, string2, ..., stringX)
 ```
 
 <h3>Time Complexity:</h3>
@@ -366,13 +366,15 @@ O(n)
 
 <h1>includes()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Determines whether an array includes a certain value among its entries, returning true or false as appropriate.
 <h3>How it works:</h3>
+Look for a value within an array. If the value is withing the array it will return true, if not, will return false.
 
 <h3>Syntax:</h3>
 
 ```
-
+includes(searchElement)
+includes(searchElement, fromIndex)
 ```
 
 <h3>Time Complexity:</h3>
@@ -383,13 +385,13 @@ O(n)
 
 <h1>indexOf()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Returns the first index at which a given element can be found in the array, or -1 if it is not present.
 <h3>How it works:</h3>
-
+The method will return the position of the first occurrence of a specified value in a string. If the value cannot be found then the return will be -1.
 <h3>Syntax:</h3>
 
 ```
-
+string.indexOf(searchvalue, start)
 ```
 
 <h3>Time Complexity:</h3>
@@ -401,13 +403,13 @@ O(n)
 
 <h1>match()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Searches a string for a match against a regular expression, and returns the matches, as an Array object.
 <h3>How it works:</h3>
-
+The method retrieves the result by matching a string against the regular expression to return a new array.
 <h3>Syntax:</h3>
 
 ```
-
+string.match(regexp)
 ```
 
 <h3>Time Complexity:</h3>
@@ -418,12 +420,13 @@ O(n)
 
 <h1>repeat()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Constructs and returns a new sting which contains the specified number of copies of the string on which it was called, concatenated together.
 <h3>How it works:</h3>
-
+The method returns a new string with a specified number of copies of the string it was called on.
 <h3>Syntax:</h3>
 
 ```
+string.repeat(count)
 ```
 
 <h3>Time Complexity:</h3>
@@ -435,12 +438,13 @@ O(n)
 
 <h1>replace()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Returns a new string with some or all matches of a pattern replaced by a string or a function to be called for each match. (If a pattern is a string, only the first occurrence will be replaced.
 <h3>How it works:</h3>
-
+Replaces a specified phrase with another specified phrase.
 <h3>Syntax:</h3>
 
 ```
+string.replace(oldvalue, newvalue, count)
 ```
 
 <h3>Time Complexity:</h3>
