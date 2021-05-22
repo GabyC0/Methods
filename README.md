@@ -313,3 +313,265 @@ O(n)
 <h3>Example:</h3>
 <h3>Example:</h3>
 
+<h1>charAt()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+<h1>charCodeAt()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+<h1>concat()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+<h1>includes()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+<h1>indexOf()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>match()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+<h1>repeat()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>replace()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>search()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>slice()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>split()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>substr()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>toLowerCase()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>toUpperCase()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
+
+<h1>trim()</h1>
+<h3>Description of method:</h3>
+- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+<h3>How it works:</h3>
+
+<h3>Syntax:</h3>
+
+```
+
+```
+
+<h3>Time Complexity:</h3>
+O(n)
+<h3>Example:</h3>
+<h3>Example:</h3>
+<h3>Example:</h3>
+
