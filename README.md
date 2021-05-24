@@ -456,13 +456,13 @@ O(n)
 
 <h1>search()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Searches a string or a regular expression for a specified value, and returns the position of the match or -1 if a match is not found.
 <h3>How it works:</h3>
-
+The method executes a search for a match between a regular expression and the string object.
 <h3>Syntax:</h3>
 
 ```
-
+string.search(searchvalue)
 ```
 
 <h3>Time Complexity:</h3>
@@ -472,15 +472,15 @@ O(n)
 <h3>Example:</h3>
 
 
-<h1>slice()</h1>
+<h1>splice()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Adds/removes items to/from an array, and returns the removed item(s).
 <h3>How it works:</h3>
-
+The method changes the contents of an array by removing or replacing the existing elements and/or adding new elements in it's place.
 <h3>Syntax:</h3>
 
 ```
-
+array.splice(index, howmany, item1, ....., itemX)
 ```
 
 <h3>Time Complexity:</h3>
@@ -492,7 +492,7 @@ O(n)
 
 <h1>split()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Splits a string into an array of substrings, and returns the new array.
 <h3>How it works:</h3>
 
 <h3>Syntax:</h3>
@@ -510,7 +510,7 @@ O(n)
 
 <h1>substr()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- 
 <h3>How it works:</h3>
 
 <h3>Syntax:</h3>
