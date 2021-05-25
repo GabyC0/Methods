@@ -494,11 +494,11 @@ O(n)
 <h3>Description of method:</h3>
 - Splits a string into an array of substrings, and returns the new array.
 <h3>How it works:</h3>
-
+The method divides a string in an ordered list of substrings and puts them into an array. The division is done by searching for a pattern.
 <h3>Syntax:</h3>
 
 ```
-
+string.split(separator, limit)
 ```
 
 <h3>Time Complexity:</h3>
@@ -510,13 +510,13 @@ O(n)
 
 <h1>substr()</h1>
 <h3>Description of method:</h3>
-- 
+- Returns a portion of the string, starting at the specified index and extending for a given number of characters afterwards.
 <h3>How it works:</h3>
-
+The method extracts part of a string, beginning at the character of the specified position, and returns the specified number of characters.
 <h3>Syntax:</h3>
 
 ```
-
+string.substr(start, length)
 ```
 
 <h3>Time Complexity:</h3>
@@ -528,17 +528,17 @@ O(n)
 
 <h1>toLowerCase()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Converts a string to lowercase letters
 <h3>How it works:</h3>
-
+Returns the calling string value converted to lowercase
 <h3>Syntax:</h3>
 
 ```
-
+string.toLowerCase()
 ```
 
 <h3>Time Complexity:</h3>
-O(n)
+
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
@@ -546,13 +546,13 @@ O(n)
 
 <h1>toUpperCase()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Converts a string to uppercase letters.
 <h3>How it works:</h3>
-
+The method returns the calling string value converted to uppercase.
 <h3>Syntax:</h3>
 
 ```
-
+string.toUpperCase()
 ```
 
 <h3>Time Complexity:</h3>
