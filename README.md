@@ -564,17 +564,17 @@ O(n)
 
 <h1>trim()</h1>
 <h3>Description of method:</h3>
-- Tests whether all elements in the array pass the test implemented by the provided function. It returns a Boolean value)
+- Removes whitespace from both sides of a string.
 <h3>How it works:</h3>
-
+The method removes white space from the ends including all the whitespace characters such as space, tab, no-break space, etc.
 <h3>Syntax:</h3>
 
 ```
-
+string.trim()
 ```
 
 <h3>Time Complexity:</h3>
-O(n)
+
 <h3>Example:</h3>
 <h3>Example:</h3>
 <h3>Example:</h3>
