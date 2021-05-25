@@ -96,7 +96,7 @@ let sum = [{x: 4}, {x: 7}, {x: 1}].reduce(
 <h3>Description of method:</h3>
 - Creates an array filled with all array elements that pass a test provided as a function.
 <h3>How it works:</h3>
-- Creates a new array with all elements that pass the test implemented by the provided function
+- Creates a new array with all elements that pass the test implemented by the provided function.
 <h3>Syntax:</h3>
 
 ```
@@ -118,18 +118,30 @@ function isAdult(age) {
 <h3>Example:</h3>
 ```js
 let books = [
-  {name: 'Bob', 
+  {name: 'Catcher in the rye', pages: 277},
+  {name: 'The House of Spirits', pages: 496},
+  {name: 'To Kill a Mockingbird', pages: 281},
+  {name: 'The Universe and the Teacup', pages: 227}
+  
+  let bigBooks = books.filter(page) {
+    return page >= 250;
+   }
 ```
 <h3>Example:</h3>
 ```js
+function positiveNum(value) {
+  return value > 0;
+}
 
+var filtered = [0, 333, 80, 152, 5].filter(posNum);
+print(filtered);
 ```
 
 <h1>forEach()</h1>
 <h3>Description of method:</h3>
 - Executes a provided function once for each array element. 
 <h3>How it works:</h3>
-
+- Takes the provided function and calls it once for each element in order.
 <h3>Syntax:</h3>
 
 ```
@@ -140,7 +152,10 @@ array.forEach(function(currentValue, index, arr), thisValue)
 O(n)
 <h3>Example:</h3>
 ```js
+let colors = ["black", "yellow", "red", "green", "aqua"];
+fruits.forEach(myFunc);
 
+function myFunc(item, index);
 ```
 <h3>Example:</h3>
 ```js
