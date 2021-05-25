@@ -96,7 +96,7 @@ let sum = [{x: 4}, {x: 7}, {x: 1}].reduce(
 <h3>Description of method:</h3>
 - Creates an array filled with all array elements that pass a test provided as a function.
 <h3>How it works:</h3>
-- 
+- Creates a new array with all elements that pass the test implemented by the provided function
 <h3>Syntax:</h3>
 
 ```
@@ -117,7 +117,8 @@ function isAdult(age) {
  
 <h3>Example:</h3>
 ```js
-
+let books = [
+  {name: 'Bob', 
 ```
 <h3>Example:</h3>
 ```js
