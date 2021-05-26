@@ -88,8 +88,7 @@ sum //13.5
 let val = 8
 let sum = [{x: 4}, {x: 7}, {x: 1}].reduce(
   (accumulator, currentVal) => accumulator + currentVal.x
-  , val
- )
+  , val)
 ```
 
 <h1>filter()</h1>
@@ -117,6 +116,7 @@ function isAdult(age) {
  
 <h3>Example:</h3>
 ```js
+
 let books = [
   {name: 'Catcher in the rye', pages: 277},
   {name: 'The House of Spirits', pages: 496},
