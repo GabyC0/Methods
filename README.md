@@ -21,7 +21,7 @@ const newNums = nums.map(theFunc)
 
 function theFunc(num) {
   return num + 100;
-  }
+}
 ```
 
 <h3>Example:</h3>
@@ -46,7 +46,7 @@ const locationName = location.map((item) => {
 const numbers = [4, 2, 7, 10]
 const newArr = numbers.map(function(num) {
   return num * 5
-  })
+})
 ```
 
 <h1>reduce()</h1>
@@ -68,7 +68,7 @@ O(n)
 const arr = [4, 9, 15, 22]
 const reducer = (accumulator, currentVal) {
   return accumulator + currentVal
- }, 1)
+}, 1)
  ```
 
 <h3>Example:</h3>
@@ -77,7 +77,7 @@ const reducer = (accumulator, currentVal) {
 const dollars = [2.5, 10.25, .75];
 const sum = dollars.reduce( function(total, amount){
   return total + amount
- });
+});
 
 sum //13.5
 ```
@@ -125,7 +125,7 @@ let books = [
   
   let bigBooks = books.filter(page) {
     return page >= 250;
-   }
+ }
 ```
 
 <h3>Example:</h3>
@@ -153,16 +153,20 @@ array.forEach(function(currentValue, index, arr), thisValue)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
 ```js
 let colors = ["black", "yellow", "red", "green", "aqua"];
 fruits.forEach(myFunc);
 
 function myFunc(item, index);
 ```
+
 <h3>Example:</h3>
+
 ```js
 
 ```
+
 <h3>Example:</h3>
 ```js
 
