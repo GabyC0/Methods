@@ -168,6 +168,7 @@ function myFunc(item, index);
 ```
 
 <h3>Example:</h3>
+
 ```js
 
 ```
@@ -186,16 +187,19 @@ array.sort(compareFunction)
 <h3>Time Complexity:</h3>
 O(nlog(n))
 <h3>Example:</h3>
+
 ```js
 
 ```
 
 <h3>Example:</h3>
+
 ```js
 
 ```
 
 <h3>Example:</h3>
+
 ```js
 
 ```
