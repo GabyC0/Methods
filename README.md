@@ -112,11 +112,11 @@ const ages = [18, 25, 15, 33];
 function isAdult(age) {
   return age >= 18;
  }
- ```
+```
  
 <h3>Example:</h3>
-```js
 
+```js
 let books = [
   {name: 'Catcher in the rye', pages: 277},
   {name: 'The House of Spirits', pages: 496},
@@ -127,7 +127,9 @@ let books = [
     return page >= 250;
    }
 ```
+
 <h3>Example:</h3>
+
 ```js
 function positiveNum(value) {
   return value > 0;
