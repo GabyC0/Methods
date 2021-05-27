@@ -156,9 +156,12 @@ O(n)
 
 ```js
 let colors = ["black", "yellow", "red", "green", "aqua"];
-fruits.forEach(myFunc);
 
-function myFunc(item, index);
+function colorsAndIndex (item, index){
+console.log(`${item} has index ${index}`);
+}
+colors.forEach(colorsAndIndex);
+
 ```
 
 <h3>Example:</h3>
