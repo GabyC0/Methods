@@ -167,13 +167,29 @@ colors.forEach(colorsAndIndex);
 <h3>Example:</h3>
 
 ```js
+function sum() {
+  let items = [15, 33, 50];
+  let copy = [];
 
+  itms.forEach(function (item) {
+    copy.push(item + item+5);
+  });
+ 
+ document.write(copy);
+}
+ sum();
 ```
 
 <h3>Example:</h3>
 
 ```js
+const items = [15, 33, 50];
+let copy = [];
 
+items.forEach(function(item){
+  copy.push(item*item);
+});
+print(copy);
 ```
 
 <h1>sort()</h1>
