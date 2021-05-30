@@ -442,6 +442,9 @@ string.indexOf(searchvalue, start)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
+```js
+```
 <h3>Example:</h3>
 <h3>Example:</h3>
 
