@@ -208,19 +208,22 @@ O(nlog(n))
 <h3>Example:</h3>
 
 ```js
-
+let famMembers = ['Jane', 'Cesar', 'Ulises', 'Maria', 'Ella'];
+famMembers.sort();
 ```
 
 <h3>Example:</h3>
 
 ```js
-
+let nums = [5, 21, 36, 9];
+nums.sort();
 ```
 
 <h3>Example:</h3>
 
 ```js
-
+let nums = [5, 21, 36, 9];
+nums.sort(function(a, b){return a-b});
 ```
 
 <h1>slice()</h1>
