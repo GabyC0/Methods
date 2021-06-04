@@ -240,6 +240,13 @@ array.slice(start, end)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
+```js
+let colors = ['black', 'blue', 'teal', 'coral', 'red'];
+
+colors.slice(0,2);
+
+```
 <h3>Example:</h3>
 <h3>Example:</h3>
 
