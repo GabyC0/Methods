@@ -258,7 +258,7 @@ let newNums = nums.slice(3);
 <h3>Example:</h3>
 
 ```js
-let users = [Mary, Oliver, Bob, Gabe]
+let users = ['Mary', 'Oliver', 'Bob', 'Gabe'];
 
 users.slice(1, 3);
 ```
