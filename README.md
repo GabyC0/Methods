@@ -250,10 +250,17 @@ colors.slice(0,2);
 <h3>Example:</h3>
 
 ```js
+let nums = [7, 83, 39, 90, 6];
+
+let newNums = nums.slice(3);
+
 ```
 <h3>Example:</h3>
 
 ```js
+let users = [Mary, Oliver, Bob, Gabe]
+
+users.slice(1, 3);
 ```
 
 <h1>pop()</h1>
