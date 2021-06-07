@@ -248,7 +248,13 @@ colors.slice(0,2);
 
 ```
 <h3>Example:</h3>
+
+```js
+```
 <h3>Example:</h3>
+
+```js
+```
 
 <h1>pop()</h1>
 <h3>Description of method:</h3>
