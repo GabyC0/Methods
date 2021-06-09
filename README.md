@@ -286,9 +286,16 @@ function myIceCreamOptions() {
 ```
 <h3>Example:</h3>
 ```js
+let numbers = [7, 4, 5, 67, 20, 46];
 
+function nums() {
+  numbers.pop();
 ```
 <h3>Example:</h3>
+
+```js
+
+```
 
 <h1>shift()</h1>
 <h3>Description of method:</h3>
