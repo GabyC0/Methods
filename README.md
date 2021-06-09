@@ -277,7 +277,17 @@ array.pop()
 <h3>Time Complexity:</h3>
 O(1)
 <h3>Example:</h3>
+
+```js
+let iceCreamFlavors = ['strawberry', 'vanilla', 'chocolate', 'pecan', 'mocha'];
+
+function myIceCreamOptions() {
+  iceCreamFlavors.pop();
+```
 <h3>Example:</h3>
+```js
+
+```
 <h3>Example:</h3>
 
 <h1>shift()</h1>
