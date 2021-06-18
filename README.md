@@ -367,8 +367,20 @@ array.unshift(tem1, item2, ..., itemX)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
+```js
+
+```
 <h3>Example:</h3>
+
+```js
+
+```
 <h3>Example:</h3>
+
+```js
+
+```
 
 <h1>includes()</h1>
 <h3>Description of method:</h3>
@@ -384,8 +396,21 @@ string.includes(searchvalue, start)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+
+```js
+
+```
+
 <h3>Example:</h3>
+
+```js
+
+```
 <h3>Example:</h3>
+
+```js
+
+```
 
 <h1>indexOf()</h1>
 <h3>Description of method:</h3>
