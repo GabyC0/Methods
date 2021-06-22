@@ -426,8 +426,15 @@ array.indexOf(item, start)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+```js
+
+```
 <h3>Example:</h3>
+```js
+```
 <h3>Example:</h3>
+```js
+```
 
 <h1>every()</h1>
 <h3>Description of method:</h3>
