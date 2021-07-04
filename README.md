@@ -568,8 +568,14 @@ string.match(regexp)
 <h3>Time Complexity:</h3>
 O(n)
 <h3>Example:</h3>
+```js
+```
 <h3>Example:</h3>
+```js
+```
 <h3>Example:</h3>
+```js
+```
 
 <h1>repeat()</h1>
 <h3>Description of method:</h3>
